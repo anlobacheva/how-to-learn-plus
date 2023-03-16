@@ -1,0 +1,14 @@
+.khan__author {
+  margin: 0;
+  padding: 0;
+}
+
+.khan__author {
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  /*width: 730px;
+  padding-left: 64px;
+  align-self: center;
+  z-index: 2;*/
+}

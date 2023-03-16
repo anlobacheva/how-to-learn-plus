@@ -1,0 +1,15 @@
+@import url(../__span-accent/two-columns__span-accent.css);
+
+.two-columns__main-text {
+  margin: 0;
+  padding: 0;
+}
+
+.two-columns__main-text {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  width: 80%;
+  min-width: 784px;
+  flex-direction: column;
+}

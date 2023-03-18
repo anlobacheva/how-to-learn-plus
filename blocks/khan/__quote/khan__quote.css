@@ -1,13 +1,11 @@
 .khan__quote {
   margin: 0;
   padding: 0;
-}
-
-.khan__quote {
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-  width: 790px;
+  max-width: 790px;
+  width: 100%;
   padding-top: 50px;
   padding-bottom: 36px;
 }

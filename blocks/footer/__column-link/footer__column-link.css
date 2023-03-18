@@ -12,10 +12,6 @@
   transition: opacity ease 0.3s;
 }
 
-.footer__column-link:last-of-type {
-  padding-bottom: 0;
-}
-
 .footer__column-link:hover {
   opacity: .7;
 }

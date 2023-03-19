@@ -5,9 +5,6 @@
   padding-top: 20px;
   padding-bottom: 16px;
   display: flex;
+  gap: 10px;
   flex-direction: column;
-}
-
-.footer__column-links:last-of-type {
-  padding-bottom: 0;
 }
